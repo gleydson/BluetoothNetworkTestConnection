@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bluetooth Network Test Connection</string>
+    <string name="status">STATUS</string>
+    <string name="dispositivos_pareados">Dispositivos Pareados</string>
+    <string name="dispositivos_dispon_veis">Dispositivos Disponíveis</string>
+    <string name="digite_uma_mensagem">Digite uma mensagem</string>
+    <string name="send">SEND</string>
 </resources>
