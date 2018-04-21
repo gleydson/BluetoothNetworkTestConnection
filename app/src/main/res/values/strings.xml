@@ -5,4 +5,6 @@
     <string name="dispositivos_dispon_veis">Dispositivos Disponíveis</string>
     <string name="digite_uma_mensagem">Digite uma mensagem</string>
     <string name="send">SEND</string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="bluetooth_off">Bluetooth OFF</string>
 </resources>
